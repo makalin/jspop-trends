@@ -2,6 +2,8 @@
 
 This project compares JavaScript frameworks over time using Google Trends data. The script fetches and visualizes the popularity of frameworks such as React, Vue, Angular, Svelte, Ember, Backbone, Meteor, Knockout, Alpine.js, Solid, Preact, Lit, Qwik, Hyperapp, and Dojo.
 
+![Latest graph output](Figure_1.png)
+
 ## Features
 - Fetches data from Google Trends
 - Compares frameworks by **interest, usage, and retention** over time
